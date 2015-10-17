@@ -1,0 +1,7 @@
+id	screen_name	name	created_at	url	followers_count	friends_count	statuses_count	favourites_count	listed_count	contributors_enabled	description	protected	location	lang	expanded_url
+25073877	realDonaldTrump	Donald J. Trump	Wed Mar 18 13:46:38 +0000 2009	http://t.co/XjVAWwcrmp	4587978	45	28435	54	25306	False	The official Twitter profile for Donald Trump  http://t.co/XjVAWwcrmp
+http://t.co/3DqVPa3KvF  http://t.co/MBxJXueyTP	False	New York, NY	en	http://www.donaldjtrump.com
+113047940	JebBush	Jeb Bush	Wed Feb 10 14:45:07 +0000 2010	http://t.co/4DHetHgT3D	341013	194	2370	57	5365	False	43rd Governor of the State of Florida	False	Miami, FL	en	http://Jeb2016.com
+1180379185	RealBenCarson	Dr. Ben Carson	Thu Feb 14 21:33:22 +0000 2013	http://t.co/Y9BYJvMt6J	768326	48	1590	99	5373	False	The Official Twitter Page of Dr. Ben Carson. Connect on Facebook: http://t.co/eRNZLexlnW	False	Baltimore, MD 	en	http://www.bencarson.com
+90484508	GovChristie	Governor Christie	Mon Nov 16 21:08:09 +0000 2009	http://t.co/iKolrNeHms	564688	605	7615	17	7464	False	Official Twitter Account of the 55th Governor of New Jersey. Husband and proud father of four.	False	Trenton, NJ	en	http://www.nj.gov/governor
+23022687	tedcruz	Ted Cruz	Fri Mar 06 03:20:20 +0000 2009	http://t.co/ws76WKOEZi	537218	13838	10807	28	6958	False	U.S. Senator from Texas and candidate for the Republican nomination for President.	False	Houston, Texas	en	http://www.tedcruz.org/

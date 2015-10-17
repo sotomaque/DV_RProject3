@@ -1,0 +1,2 @@
+in order to collect this data, i wrote a python script which accessed the twitter and facebook apis, retreieving key metrics and writting them onto 
+a CSV file for me. i ran this script one a day and plotted the changes as a function of time.
